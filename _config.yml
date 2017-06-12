@@ -24,7 +24,6 @@ github_username:  mikewisby
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-cayman
->>>>>>> a07d6b64cb47030d1a14b5b5b0a179d35d1c2f51
 gems:
   - jekyll-feed
 exclude:
