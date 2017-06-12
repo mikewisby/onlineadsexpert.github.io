@@ -20,7 +20,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://onlineadsexpert.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: onlineadsexpert
 github_username:  mikewisby
-
+google_analytics: UA-100766269-1
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-cayman
