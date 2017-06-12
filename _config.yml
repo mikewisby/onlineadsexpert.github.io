@@ -17,7 +17,7 @@ title: Online Ads Expert
 email: info@onlineadsexpert.com
 description: Online Advertising Experts for Northern California
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://onlineadsexpert.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: onlineadsexpert
 github_username:  mikewisby
 
