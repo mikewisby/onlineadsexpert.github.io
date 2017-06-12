@@ -23,7 +23,11 @@ github_username:  mikewisby
 google_analytics: UA-100766269-1
 # Build settings
 markdown: kramdown
+<<<<<<< HEAD
 theme: minima
+=======
+theme: jekyll-theme-minimal
+>>>>>>> 6f3d8efd6b64baa81613f19ff3be5f2cc5cf3294
 gems:
   - jekyll-feed
 exclude:
