@@ -17,13 +17,26 @@ title: Online Ads Expert
 email: info@onlineadsexpert.com
 description: Online Advertising Experts for Northern California
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://onlineadsexpert.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: onlineadsexpert
+url: "http://onlineadsexpert.com"
+twitter_url: https://twitter.com/onlineadsexpert
+facebook_url: https://facebook.com/onlineadsexpert
 github_username:  mikewisby
 google_analytics: UA-100766269-1
+tiles-source: pages
+tiles-count: 4
+street_address: 109 Gold Rock Court
+city: Folsom
+state: CA
+zip_code: 95630
+country: United States of America
+
+
+
 # Build settings
 markdown: kramdown
-theme: minima
+
+sass:
+style: compressed
 gems:
   - jekyll-feed
 exclude:
