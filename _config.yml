@@ -34,11 +34,10 @@ country: United States of America
 
 # Build settings
 markdown: kramdown
-
-sass:
-style: compressed
+theme: minima
 gems:
   - jekyll-feed
+
 exclude:
   - Gemfile
   - Gemfile.lock
