@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Home
-landing-title: 'Hi, my name is Forty'
+title: Online Ads Expert
+landing-title: 'Online Ads Expert'
 description: null
 image: null
 author: null
